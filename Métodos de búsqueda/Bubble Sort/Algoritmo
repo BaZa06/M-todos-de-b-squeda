@@ -1,0 +1,15 @@
+BUBBLE_SORT(arreglo):
+    n = longitud del arreglo
+
+    repetir (n - 1) veces:
+        bandera_intercambio = falso
+
+        para i desde 0 hasta n - 2:
+            si arreglo[i] > arreglo[i + 1]:
+                intercambiar arreglo[i] y arreglo[i + 1]
+                bandera_intercambio = verdadero
+
+        si bandera_intercambio es falso:
+            romper: el arreglo ya está ordenado
+
+    retornar arreglo

@@ -1,0 +1,28 @@
+MERGE_SORT(arreglo):
+    si el tamaño del arreglo <= 1:
+        retornar arreglo
+
+    dividir el arreglo en dos mitades:
+        mitad_izquierda = primera mitad del arreglo
+        mitad_derecha = segunda mitad del arreglo
+
+    izquierda_ordenada = MERGE_SORT(mitad_izquierda)
+    derecha_ordenada = MERGE_SORT(mitad_derecha)
+
+    retornar MEZCLAR(izquierda_ordenada, derecha_ordenada)
+
+
+MEZCLAR(izquierda, derecha):
+    crear lista vacía llamada resultado
+
+    mientras ambas listas tengan elementos:
+        si izquierda[0] <= derecha[0]:
+            agregar izquierda[0] a resultado
+            eliminar izquierda[0] de izquierda
+        sino:
+            agregar derecha[0] a resultado
+            eliminar derecha[0] de derecha
+
+    agregar los elementos restantes de izquierda o derecha a resultado
+
+    retornar resultado
