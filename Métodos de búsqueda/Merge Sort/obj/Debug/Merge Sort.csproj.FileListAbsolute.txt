@@ -1,0 +1,8 @@
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\obj\Debug\Merge Sort.csproj.AssemblyReference.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\obj\Debug\Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\bin\Debug\Merge Sort.exe.config
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\bin\Debug\Merge Sort.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\bin\Debug\Merge Sort.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\obj\Debug\Merge Sort.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\obj\Debug\Merge Sort.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Merge Sort\obj\Debug\Merge Sort.exe.config

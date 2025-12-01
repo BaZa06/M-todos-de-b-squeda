@@ -62,6 +62,17 @@ namespace Merge_Sort
                 j++;
                 k++;
             }
+            Console.WriteLine($"Pass {i + 1}: {string.Join(", ", array)}");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] a = { 5, 2, 9, 1, 6 };
+            MergeSortAlgorithm.MergeSort(a, 0, a.Length - 1);
+            Console.WriteLine(string.Join(", ", a));
         }
     }
 }

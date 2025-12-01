@@ -1,0 +1,8 @@
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\obj\Debug\Bubble Sort.csproj.AssemblyReference.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\obj\Debug\Bubble Sort.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\SEGUNDO SEMESTRE\Semana 13\Métodos de búsqueda\Bubble Sort\obj\Debug\Bubble Sort.exe.config

@@ -1,15 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Bubble_Sort
 {
+    class Program
+    {
+        static void Main()
+        {
+            int[] arr = { 5, 2, 9, 1, 5, 6 };
+            BubbleSortAlgorithm.BubbleSort(arr);
+            Console.WriteLine(string.Join(", ", arr));
+            Console.ReadLine(); // mantener la consola abierta al depurar
+        }
+    }
+
     class BubbleSortAlgorithm
     {
         public static void BubbleSort(int[] array)
-        {
+        {   
             int n = array.Length;
             bool swapped;
 
@@ -28,10 +35,8 @@ namespace Bubble_Sort
                     }
                 }
 
-                if (!swapped)
-                {
-                    break; // el arreglo ya está ordenado
-                }
+                if (!swapped) break;
+                Console.WriteLine($"Pass {i + 1}: {string.Join(", ", array)}");
             }
         }
     }
